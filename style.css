@@ -24,6 +24,13 @@ body {
     box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
 }
 
+#head{
+    text-align: center;
+    margin: 1em;
+    color: #fff;
+    font-size: 3em;
+}
+
 .search-wrapper {
     display: grid;
     grid-template-columns: 9fr 3fr;
