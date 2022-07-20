@@ -55,12 +55,6 @@ searchBtn.addEventListener("click", () => {
                 </div>
                 <div class="wrapper">
                     <div class="data-wrapper">
-                        <h4>Time Zone:</h4>
-                        <span>${data[0].timezones}</span>
-                    </div>
-                </div>
-                <div class="wrapper">
-                    <div class="data-wrapper">
                         <h4>Subregion:</h4>
                         <span>${data[0].subregion}</span>
                     </div>
